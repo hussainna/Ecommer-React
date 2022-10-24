@@ -1,0 +1,35 @@
+.TopHome{
+    border-bottom: #eeecec solid 1px;
+}
+.TopHome .cont{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}    
+
+.topIcons{
+    display: flex;
+}
+.topIcons i{
+    margin-right: 10px;
+    background-color: #F2F2F2;
+    color: #787878;
+    border-radius: 5px;
+    align-items: center;
+    font-size: 18px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: .2s ease;
+}
+.topIcons i:hover{
+    background-color: #ff8f9c;
+    color: #fff;
+}
+.topButtons button{
+    border: none;
+    padding: 10px;
+    background-color: #e9e9ed;
+    margin-left: 10px;
+    color: #787878;
+}

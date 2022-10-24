@@ -1,0 +1,35 @@
+.footer{
+    margin-top: 10px;
+    background-color: #212121;
+}
+.footer .container{
+    padding-top: 50px;
+}
+.footer h4{
+    color: #fff;
+    margin-bottom: 20px;
+}
+.footer ul li{
+    margin-top: 10px;
+}
+.footer i{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.footer a{
+    color: #686868;
+    font-size: 15px;
+}
+.line{
+    margin-top: 20px;
+    background-color: rgb(59, 59, 59);
+    margin-bottom: 20px;
+    width: 100%;
+    height: 1px;
+}
+.footer .bottomText{
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+    color: #686868;
+}

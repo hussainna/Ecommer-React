@@ -1,0 +1,59 @@
+.hero{
+    margin-top: 10px;
+}
+.hero nav li{
+    margin-left: 20px;
+}
+.hero nav li a{
+    font-size: 15px;
+    color: #000;
+    transition: .2s;
+
+}
+.hero nav li a:hover{
+    color: #fc8190;
+}
+.hero .cover{
+    position: relative;
+}
+.hero .cover img{
+    margin-top: 20px;
+    width: 100%;
+    height: 60vh;
+    border-radius: 10px;
+}
+.coverText{
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    text-align: left;
+}
+.coverText h4{
+    color: #fc8190;
+    font-size: 25px;   
+}
+.coverText h1{
+    font-size: 40px;
+    width: 60%;
+    margin-top: 10px;
+}
+.coverText h5{
+    color: #787878;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.coverText button{
+    border: none;
+    background-color: #fc8190;
+    padding: 10px;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: .2s ease;
+}
+.coverText button:hover{
+    background-color: #212121;
+}

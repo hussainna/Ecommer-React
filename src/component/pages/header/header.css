@@ -1,0 +1,47 @@
+header{
+    margin-top: 30px;
+    border-bottom: rgb(224, 223, 223) 1px solid;
+    padding-bottom: 15px;
+}
+header .logo{
+    color: #000;
+    font-size: 40px;
+}
+.search{
+    display: flex;
+    align-items: center;
+    text-align: left;
+    border: rgb(231, 231, 231) solid 1px;
+    padding: 7px 10px;
+    width: 50%;
+    border-radius: 10px;
+}
+header .search i{
+    font-size: 18px;
+}
+.headerIcons{
+    display: flex;
+}
+.headerIconsItem{
+    position: relative;
+
+}
+.headerIconsItem i{
+    font-size: 35px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.headerIconsItem span{
+    border-radius: 50%;
+    position: absolute;
+    top:-2px;
+    right:0px;
+    color: #fff;
+    background-color: red;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15px;
+    height: 15px;
+}

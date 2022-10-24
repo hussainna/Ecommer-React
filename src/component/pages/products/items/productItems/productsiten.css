@@ -1,0 +1,28 @@
+.ProductItems h3{
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 17px;
+}
+.ProductItems .grid-item hr{
+    opacity: .3;
+    margin-bottom: 30px;
+}
+.ProductItems .itemsBody img{
+    width: 33%;
+    margin-right: 10px;
+}
+.ProductItems .box{
+    padding: 10px;
+    border: 1px solid rgb(235, 232, 232);
+    border-radius: 10px;
+}
+
+.ProductItems .boxPrice h5{
+    color: #ff8f9c;
+    margin-right: 5px;
+    font-size: 15px;
+}
+.ProductItems .itemsBody .boxText p{
+    font-size: 15px;
+    color: rgb(122, 121, 121);
+}

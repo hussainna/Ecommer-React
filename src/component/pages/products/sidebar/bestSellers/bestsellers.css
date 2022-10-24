@@ -1,0 +1,28 @@
+.BestSelers {
+    text-align: left;
+    margin-top: 20px;
+}
+.BestSelers h4{
+    margin-bottom: 10px;
+}
+.BestSelers  img{
+    width: 30%;
+    margin-right: 20px;
+}
+.BestSelers .box{
+    margin-top: 10px;
+}
+.BestSelers .box label{
+    color: #636262;
+}
+.BestSelers .box i{
+    color: orange;
+}
+.BestSelers .box span{
+    margin-right: 10px;
+}
+.BestSelers .box h5{
+    font-size: 17px;
+    font-weight: 600;
+    color: #313030;
+}

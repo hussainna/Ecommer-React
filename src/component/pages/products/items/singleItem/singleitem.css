@@ -1,0 +1,72 @@
+.SingleProduct{
+    margin-top: 30px;
+    text-align: left;
+}
+.SingleProduct img{
+    width: 50%;
+}
+.Single{
+    margin-top: 20px;
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 10px;
+    padding: 10px;
+}
+.SingleProduct .title{
+    margin-bottom: 10px;
+    color: rgb(39, 39, 39);
+}
+.SingleProduct hr{
+    opacity: .3;
+}
+.SingleProduct i{
+    color: orange;
+    margin-bottom: 10px;
+}
+.SingleProduct .SingleText h4{
+    color: rgb(32, 32, 32);
+    margin-bottom: 10px;
+}
+.SingleProduct p{
+    width: 83%;
+    margin-bottom: 10px;
+    color: rgb(155, 154, 154);
+}
+.SingleProduct .priceNumber{
+    color: #ff8f9c;
+    font-size: 25px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.SingleProduct .price span{
+    font-size: 20px;
+}
+.SingleProduct button{
+    font-size: 17px;
+    font-weight: 600;
+    background-color: #ff8f9c;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    transition: .2s ease;
+    margin-bottom: 10px;
+}
+.SingleProduct button:hover{
+    background-color: #000;
+}
+.SingleProduct .SingleText .timeFlex{
+    background-color: rgb(235, 233, 233);
+    margin-right: 10px;
+    border-radius: 10px;
+    display: block;
+    padding: 10px;
+    align-items: center;
+    margin-top: 10px;
+}
+.SingleProduct .SingleText .timeFlex h5{
+    font-size: 20px;
+}
+.SingleProduct .SingleText .timeFlex span{
+    font-size: 10px;
+}

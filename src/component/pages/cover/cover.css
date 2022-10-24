@@ -1,0 +1,109 @@
+.cover{
+    margin: 20px 10px;
+}
+.cover hr{
+    opacity: .4;
+}
+.testimonialItems{
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid rgb(218, 218, 218);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.testimonialItems img{
+    width: 50%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.testimonialItems h4{
+    color: rgb(136, 136, 136);
+    font-size: 18px;
+}
+.testimonialItems p{
+    margin-top: 20px;
+    font-size: 15px;
+    color: rgb(122, 122, 122);
+}
+.discount{
+    position: relative;
+}
+.textbanner{
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    background-color:#fff;
+    padding: 30px 30px;
+    opacity: 0.7;
+    text-align: center;
+}
+
+.textbanner h4{
+    padding: 10px 0px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+}
+.textbanner h2{
+    width: 90%;
+    margin-bottom: 10px;
+}
+.textbanner p{
+    color: rgb(122, 122, 122);
+}
+.serverBox{
+    padding: 20px;
+    border: 1px solid rgb(224, 224, 224);
+    margin-top: 20px;
+    border-radius: 10px;
+    align-items: center;
+}
+.servesItem{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.servesItem i{
+    font-size: 40px;
+    color: pink;
+    margin-right: 10px;
+}
+.servesText h4{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
